@@ -1,8 +1,34 @@
+ENGLISH
+
+# Calculator in CSharp
+
+Terminal calculator made in C#.
+
+- It was estruturated by MVC metod (Model, View, Control)
+
+- It was made for someone that really wants something simple just to understand how C# works and how it is easy to write.
+
+It was made in 20 minutes, so it has very basic functionalities (sum, subtract, division and multiply).
+
+Feel free to update this code with more operations or beautifulness.
+
+Good luck and stay put in your studies.
+
+# Installation Instructions 
+
+1. You need Visual Studio;
+2. After you've downloaded the zip file, just extract the "Calculadora" in your "repos" directory.
+          2.1. If you don't know how to find "repos" directory, just search in Windows bar for his name.
+
+I don't use any other O.S. than Windwos, so good luck with them.
+
+PORTUGUÊS
+
 # Calculadora em CSharp
 
 Calculadora de terminal desenvolvida em C#.
 
-- Estruturada pelo método MVC (Moldel, View, Control).
+- Estruturada pelo método MVC (Model, View, Control).
 
 - Foi adicionada para quem realmente quer algo básico do básico para entender como funciona o C#.
 
