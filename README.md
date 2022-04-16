@@ -1,8 +1,31 @@
 # Calculadora_em_CSharp
+
 Calculadora de terminal desenvolvida em C#.
 
-Fiz em 20 minutos. Funcionamento básico. Só ligar e rodar.
+Fiz em 20 minutos, portanto tem um funcionamento básico (soma, subtração, divisão e multiplicação).
 
-Estruturada pelo método MVC (Moldel, View, Control).
+Só ligar e rodar.
 
-Foi adicionada para quem realmente quer algo básico do básico para entender como funciona o C#.
+Se aglguém tiver interesse em melhorá-la, adicionando novas operações ou deixando-a mais bonita, fique a vontade.
+
+=================================================================================================================
+
+- Estruturada pelo método MVC (Moldel, View, Control).
+
+- Foi adicionada para quem realmente quer algo básico do básico para entender como funciona o C#.
+
+
+# Instruções para Rodar
+
+1. Você precisará de um programa chamado Visual Studio.
+
+2. Assim que você baixar o arquivo zip, extraia a pasta "Calculadora" para o diretório "repos".
+ 2.1. Se você não sabe onde ele se encontra basta digitar na barra de pesquisa do Windows por "repos".
+ 
+Desconheço como encontrar essa pasta em outros sistemas operacionais que não o Windows.
+
+=================================================================================================================
+
+Siga firme nos estudos.
+
+Abraços!
