@@ -1,4 +1,4 @@
-# Calculadora_em_CSharp
+# Calculadora em CSharp
 
 Calculadora de terminal desenvolvida em C#.
 
