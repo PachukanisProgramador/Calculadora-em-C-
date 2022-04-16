@@ -18,6 +18,7 @@ Good luck and stay put in your studies.
 
 1. You need Visual Studio;
 2. After you've downloaded the zip file, just extract the "Calculadora" in your "repos" directory.
+
           2.1. If you don't know how to find "repos" directory, just search in Windows bar for his name.
 
 I don't use any other O.S. than Windwos, so good luck with them.
