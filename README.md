@@ -26,8 +26,8 @@ Good luck and stay put in your studies.
 
 I don't use any other O.S. than Windwos, so good luck with them.
 
-![Badge](https://img.shields.io/badge/Data%2de%2Lançamento-maio%2F2022-blueviolet)
-![Badge](https://img.shields.io/badge/Nível$20do%20código-Muito%20Fácil-brightgreen)
+![Badge](https://img.shields.io/badge/Data%2de%2Lancamento-maio%2F2022-blueviolet)
+![Badge](https://img.shields.io/badge/Nível%20do%20código-Muito%20Fácil-brightgreen)
 
 PORTUGUÊS
 
