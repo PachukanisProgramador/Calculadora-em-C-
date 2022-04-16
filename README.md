@@ -14,8 +14,6 @@ Se alguém tiver interesse em melhorá-la, adicionando novas operações ou deix
 
 Abraços e siga firme nos estudos!
 
-============================================================================================
-
 # Instruções para Rodar
 
 1. Você precisará de um programa chamado Visual Studio.
@@ -24,5 +22,3 @@ Abraços e siga firme nos estudos!
  2.1. Se você não sabe onde ele se encontra basta digitar na barra de pesquisa do Windows por "repos".
  
 Desconheço como encontrar essa pasta em outros sistemas operacionais que não o Windows.
-
-============================================================================================
