@@ -8,7 +8,7 @@ Só ligar e rodar.
 
 Se aglguém tiver interesse em melhorá-la, adicionando novas operações ou deixando-a mais bonita, fique a vontade.
 
-=================================================================================================================
+============================================================================================
 
 - Estruturada pelo método MVC (Moldel, View, Control).
 
@@ -24,7 +24,7 @@ Se aglguém tiver interesse em melhorá-la, adicionando novas operações ou dei
  
 Desconheço como encontrar essa pasta em outros sistemas operacionais que não o Windows.
 
-=================================================================================================================
+============================================================================================
 
 Siga firme nos estudos.
 
