@@ -24,7 +24,7 @@ Good luck and stay put in your studies.
 
           2.1. If you don't know how to find "repos" directory, just search in Windows bar for his name.
 
-I don't use any other O.S. than Windwos, so good luck with them.
+I don't use any other O.S. than Windows, so good luck with them.
 
 ![Badge](https://img.shields.io/badge/Data%20de%20Lançamento-maio%2F2022-blueviolet)
 ![Badge](https://img.shields.io/badge/Nível%20do%20código-Muito%20Fácil-brightgreen)
