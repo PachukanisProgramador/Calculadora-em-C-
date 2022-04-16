@@ -3,7 +3,7 @@
 
 ENGLISH
 
-# Calculator in CSharp
+# Calculator in C#
 
 Terminal calculator made in C#.
 
@@ -31,7 +31,7 @@ I don't use any other O.S. than Windwos, so good luck with them.
 
 PORTUGUÊS
 
-# Calculadora em CSharp
+# Calculadora em C#
 
 Calculadora de terminal desenvolvida em C#.
 
