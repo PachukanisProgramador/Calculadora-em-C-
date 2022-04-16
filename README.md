@@ -3,7 +3,7 @@
 
 ENGLISH
 
-# Calculator in C#
+# C# Calculator
 
 Terminal calculator made in C#.
 
