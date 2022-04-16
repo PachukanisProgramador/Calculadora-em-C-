@@ -19,6 +19,7 @@ Abraços e siga firme nos estudos!
 1. Você precisará de um programa chamado Visual Studio.
 
 2. Assim que você baixar o arquivo zip, extraia a pasta "Calculadora" para o diretório "repos".
+
  2.1. Se você não sabe onde ele se encontra basta digitar na barra de pesquisa do Windows por "repos".
  
 Desconheço como encontrar essa pasta em outros sistemas operacionais que não o Windows.
