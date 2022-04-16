@@ -1,5 +1,5 @@
 ![Badge](https://img.shields.io/badge/Realese%20Date-may%2F2022-blueviolet)
-![Badge](https://img.shields.io/badge/Code%20complexity-Very%20easy-brightgreen)
+![Badge](https://img.shields.io/badge/Code%20complexity-Very%20Easy-brightgreen)
 
 ENGLISH
 
