@@ -1,4 +1,4 @@
 # Calculadora_em_CSharp
-# Calculadora de terminal desenvolvida em C#.
+Calculadora de terminal desenvolvida em C#.
 
-# Funcionamento básico. Só ligar e rodar.
+Funcionamento básico. Só ligar e rodar.
