@@ -1,4 +1,4 @@
-/aur/last-modified/:packageName
+https://img.shields.io/badge/Realese%20Date-may%2F2022-green
 
 ENGLISH
 
