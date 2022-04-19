@@ -1,5 +1,5 @@
 ![Badge](https://img.shields.io/badge/Realese%20Date-may%2F2022-blueviolet)
-![Badge](https://img.shields.io/badge/Code%20complexity-Very%20Easy-brightgreen)
+![Badge](https://img.shields.io/badge/Code%20complexity-Ridiculously%20Easy-brightgreen)
 
 ENGLISH
 
@@ -27,7 +27,7 @@ Good luck and stay put in your studies.
 I can't help with any other O.S. than Windows, so good luck.
 
 ![Badge](https://img.shields.io/badge/Data%20de%20Lançamento-maio%2F2022-blueviolet)
-![Badge](https://img.shields.io/badge/Nível%20do%20código-Muito%20Fácil-brightgreen)
+![Badge](https://img.shields.io/badge/Nível%20do%20código-Ridículo%20de%20Fácil-brightgreen)
 
 PORTUGUÊS
 
